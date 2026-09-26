@@ -1,1 +1,13 @@
 sample_id,split,tags,reason
+GTS01,example,normal;conflict,Cụm biển nhiều panel xếp chồng gồm cả biển nguy hiểm và biển cấm
+GTS02,example,edge;small_far;occlusion,Trộn lẫn mandatory và other có biển nhỏ 20x22 px và biển trong bóng râm
+GTS03,example,normal;small_far,Đủ cả 4 nhóm biển báo trong cùng ảnh và có biển nhỏ 20x20 px
+GTS04,example,edge;critical;small_far,Hai cặp biển nhỏ xếp gần nhau và biển cảnh báo nguy hiểm trong điều kiện mờ
+GTS05,example,normal,Biển báo cấm và giới hạn tốc độ tiêu chuẩn trong điều kiện quan sát rõ
+GTS06,calibration,edge;critical;conflict,Hai biển xếp chồng speed limit 80 và cấm vượt dễ nhầm lẫn hoặc gộp box
+GTS07,calibration,negative;normal,Ảnh không có biển báo hợp lệ kiểm tra quy tắc không vẽ thừa box
+GTS08,calibration,edge;small_far,Biển tròn rất nhỏ ở xa hơn 50m thử nghiệm ngưỡng nhận diện và ignore
+GTS09,calibration,edge;occlusion;conflict,Cụm 3 biển gồm biển chính và biển phụ có thanh đỡ che khuất một phần
+GTS10,calibration,normal;edge,Biển chỉ dẫn phân luồng và biển nguy hiểm ven đường thử nghiệm nhận diện family
+GTS11,calibration,edge;occlusion,Biển người đi bộ bị nghiêng và mép sát rìa ảnh thử nghiệm quy tắc cắt mép
+GTS12,calibration,edge;critical;conflict,Hai biển giới hạn tốc độ 70 và 80 mâu thuẫn cự ly gần kiểm tra phân loại độc lập

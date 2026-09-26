@@ -5,8 +5,8 @@
 - **Team:** team06 (ví dụ `team07`)
 - **Nhóm peer test bài của mình:** TODO (cặp A ↔ B; số nhóm lẻ thì ring 3 nhóm A → B → C → A — Lab Coach công bố)
 - **Nhóm mình test bài của:** TODO
-- **Problem family:** TODO (xem README mục "1 · Chọn bài toán")
-- **Nguồn ảnh:** TODO (`bdd100k`, `gtsdb`, `lisa` — chỉ dùng ảnh trong `data/`)
+- **Problem family:** traffic_sign
+- **Nguồn ảnh:** gtsdb
 
 | Thành viên | Mã sinh viên | GitHub | Vai trò chính | File phụ trách |
 |---|---|---|---|---|
