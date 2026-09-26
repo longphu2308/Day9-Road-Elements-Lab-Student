@@ -11,3 +11,8 @@ GTS09,calibration,edge;occlusion;conflict,Cụm 3 biển gồm biển chính và
 GTS10,calibration,normal;edge,Biển chỉ dẫn phân luồng và biển nguy hiểm ven đường thử nghiệm nhận diện family
 GTS11,calibration,edge;occlusion,Biển người đi bộ bị nghiêng và mép sát rìa ảnh thử nghiệm quy tắc cắt mép
 GTS12,calibration,edge;critical;conflict,Hai biển giới hạn tốc độ 70 và 80 mâu thuẫn cự ly gần kiểm tra phân loại độc lập
+GTS18,blind,edge;critical,Cụm 2 biển xếp chồng gồm biển cảnh báo nguy hiểm và giới hạn tốc độ 30 km/h thử thách phát hiện biển điều tiết an toàn
+GTS20,blind,edge;conflict,Nút giao vòng xuyến có 3 biển thuộc 2 family khác nhau (mandatory và other) kiểm tra phân loại độc lập
+GTS21,blind,normal,Biển bắt buộc đi bên trái (keep left) kích thước lớn góc nhìn trực diện rõ ràng làm mốc kiểm tra bình thường
+GTS24,blind,edge;small_far,Một biển chỉ dẫn cỡ vừa và một biển cấm đi vào rất nhỏ (17x29 px) kiểm tra không bỏ sót biển nhỏ
+GTS28,blind,ambiguity;negative,Không có biển báo giao thông hợp lệ xuất hiện biển quảng cáo thương mại bên đường kiểm tra quy tắc ignore và ambiguity
