@@ -1,8 +1,8 @@
 # Annotation guideline — Traffic sign family classification
 
-**Version:** v2
+**Version:** v3
 
-> Bản v2 cập nhật sau khi rà soát edge-case library EC-01 → EC-08.  
+> Bản v3 cập nhật sau vòng Blind Handoff với nhóm peer (team20): bổ sung quy tắc loại trừ biển hiệu thương mại ngoài scope (như Biergarten trong GTS28) và hướng dẫn nhận diện biển kích thước nhỏ ở cự ly xa.  
 > Mọi rule mà peer cần biết phải nằm trong file này. Không dùng hidden rule chỉ giải thích bằng miệng.
 
 ## 1. Objective + scope

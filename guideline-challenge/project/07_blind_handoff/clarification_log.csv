@@ -1,1 +1,3 @@
 time,asker,question,answered_how,guideline_change
+13:15,team20,GTS28 có bảng hiệu chữ Biergarten nền xanh trắng bên lề đường thì có vẽ box không?,Chỉ vào mục 1 và 5 của guideline: biển quảng cáo thương mại không thuộc phạm vi traffic sign nên IGNORE,Bổ sung ví dụ cụ thể về biển tên quán/biển thương mại ven đường vào mục 5 (Exclusion) trong guideline v3
+13:22,team20,GTS24 có biển cấm đi vào rất nhỏ ở góc đường xa thì gắn nhãn gì nếu mờ?,Hướng dẫn theo mục 6 và 7: nếu nhận ra hình dạng tròn viền đỏ thanh ngang trắng thì gán prohibitory; nếu chỉ chắc chắn là biển mà không rõ ký hiệu thì chọn unknown,Thêm hướng dẫn nhận diện biển kích thước nhỏ qua hình khối và màu sắc đặc trưng vào mục 6 trong guideline v3
