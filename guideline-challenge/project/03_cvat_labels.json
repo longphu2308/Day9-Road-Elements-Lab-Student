@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "traffic_sign",
+    "color": "#1E88E5",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "sign_family",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "__undefined__",
+        "values": [
+          "__undefined__",
+          "prohibitory",
+          "mandatory",
+          "danger",
+          "other",
+          "unknown"
+        ]
+      },
+      {
+        "name": "needs_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": [
+          "false"
+        ]
+      }
+    ]
+  }
+]
