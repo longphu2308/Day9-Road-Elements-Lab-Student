@@ -1,0 +1,17 @@
+sample_id,label,measure,Phu,Trong,agree
+GTS02,traffic_sign,count,9,9,1
+GTS02,traffic_sign,attr:needs_review,false|false|false|false|false|false|false|false|false,false|false|false|false|false|false|false|false|false,1
+GTS02,traffic_sign,attr:sign_family,danger|danger|danger|mandatory|mandatory|mandatory|unknown|unknown|unknown,danger|danger|danger|mandatory|mandatory|mandatory|mandatory|unknown|unknown,0
+GTS04,traffic_sign,count,7,7,1
+GTS04,traffic_sign,attr:needs_review,false|false|false|false|false|false|false,false|false|false|false|false|false|false,1
+GTS04,traffic_sign,attr:sign_family,other|other|prohibitory|prohibitory|prohibitory|prohibitory|unknown,other|other|prohibitory|prohibitory|prohibitory|prohibitory|unknown,1
+GTS05,traffic_sign,count,9,8,0
+GTS05,traffic_sign,attr:needs_review,false|false|false|false|false|false|false|false|false,false|false|false|false|false|false|false|false,0
+GTS05,traffic_sign,attr:sign_family,other|other|prohibitory|unknown|unknown|unknown|unknown|unknown|unknown,other|prohibitory|unknown|unknown|unknown|unknown|unknown|unknown,0
+GTS07,traffic_sign,count,1,0,0
+GTS07,traffic_sign,attr:needs_review,false,,0
+GTS07,traffic_sign,attr:sign_family,unknown,,0
+GTS08,traffic_sign,count,7,7,1
+GTS08,traffic_sign,attr:needs_review,false|false|false|false|false|false|false,false|false|false|false|false|false|false,1
+GTS08,traffic_sign,attr:sign_family,__undefined__|other|prohibitory|prohibitory|unknown|unknown|unknown,other|prohibitory|prohibitory|prohibitory|unknown|unknown|unknown,0
+GTS14,traffic_sign,count,0,0,1
