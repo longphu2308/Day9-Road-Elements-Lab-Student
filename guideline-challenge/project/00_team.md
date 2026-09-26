@@ -14,7 +14,7 @@
 | Lại Hoàng Duy | https://github.com/laihoangduy2424 | spec owner | `01`, `02` |
 | Lê Hữu Nghĩa | https://github.com/laihoangduy2424 | gold owner | `04_edge_cases/`|
 | Trần Đức Quân | https://github.com/tranducquan2k5-afk | QA owner | `05`, `06`, `07_blind_handoff/`|
-| Nguyễn Văn Trọng | https://github.com/trong25 |  | `08`, `09`|
+| Nguyễn Văn Trọng | https://github.com/trong25 | QA owner | `06`, `07_blind_handoff/`|
 
 Gợi ý chia vai (nhóm 2–3 người thì gộp): **spec owner** (`01`, `02`), **CVAT owner** (`03_*`, `sample_pack.csv`,
 `09`), **gold owner** (`04_edge_cases/`), **QA owner** (`05`, `06`, `07_blind_handoff/`). Mỗi file một người sửa
