@@ -1,8 +1,9 @@
 CVAT task reference — thay mọi placeholder mới là xong.
 
-CVAT version: TODO
-Task calibration (tên, id): TODO
-Task bản cuối theo guideline v3 (tên, id) hoặc lý do không có: TODO
-File export đã nộp (đường dẫn trong repo): TODO
-Guideline version dán trong Guide của task: TODO
-Ghi chú cho người tiếp nhận: TODO
+CVAT version: 2.74.1 (tại http://localhost:8080)
+Task calibration (tên, id): team06-calib-v1 (Task ID: 1)
+Task bản cuối theo guideline v3 (tên, id) hoặc lý do không có: team06-final-v3 (Task ID: 2 - tạo sau khi hoàn thành blind handoff và cập nhật guideline v3)
+File export đã nộp (đường dẫn trong repo): project/06_calibration_exports/Phu.zip
+Guideline version dán trong Guide của task: v2 (task calibration) và v3 (task bản cuối)
+Ghi chú cho người tiếp nhận: Dataset GTSDB ảnh tĩnh (Shape mode, Rectangle). Nhãn traffic_sign với thuộc tính sign_family (default __undefined__) và needs_review (checkbox). File export định dạng CVAT for images 1.1.
+
