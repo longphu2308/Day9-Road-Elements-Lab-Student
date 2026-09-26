@@ -11,7 +11,7 @@
 | Thành viên | Mã sinh viên | GitHub | Vai trò chính | File phụ trách |
 |---|---|---|---|---|
 | Trần Long Phú | 2A202602313 | https://github.com/longphu2308 | CVAT owner | `03_*`, `sample_pack.csv`, `09`| 
-| Lại Hoàng Duy | 2A202602271 | https://github.com/laihoangduy2424 | spec owner | `01`, `02` |
+| Lại Hoàng Duy | 2A202602271 | https://github.com/laihoangduy2424 | spec owner | `01`, `02`, `08` |
 | Lê Hữu Nghĩa | 2A202602285 | https://github.com/HNghiaLe | gold owner | `04_edge_cases/`|
 | Trần Đức Quân | 2A202602260 | https://github.com/tranducquan2k5-afk | QA owner | `05`|
 | Nguyễn Văn Trọng | 2A202602276 | https://github.com/trong25 | QA owner | `06`, `07_blind_handoff/`|
