@@ -13,7 +13,7 @@
 | Trần Long Phú | https://github.com/longphu2308 | CVAT owner | `03_*`, `sample_pack.csv`, `09`| 
 | Lại Hoàng Duy | https://github.com/laihoangduy2424 | spec owner | `01`, `02` |
 | Lê Hữu Nghĩa | https://github.com/HNghiaLe | gold owner | `04_edge_cases/`|
-| Trần Đức Quân | https://github.com/tranducquan2k5-afk | QA owner | `05`, `06`, `07_blind_handoff/`|
+| Trần Đức Quân | https://github.com/tranducquan2k5-afk | QA owner | `05`|
 | Nguyễn Văn Trọng | https://github.com/trong25 | QA owner | `06`, `07_blind_handoff/`|
 
 Gợi ý chia vai (nhóm 2–3 người thì gộp): **spec owner** (`01`, `02`), **CVAT owner** (`03_*`, `sample_pack.csv`,
