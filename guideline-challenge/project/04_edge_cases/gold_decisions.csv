@@ -1,1 +1,15 @@
 sample_id,decision_id,expected,severity,rationale
+GTS18,d1,label=traffic_sign; sign_family=danger,critical,Biển cảnh báo nguy hiểm khúc cua gấp nếu bỏ sót sẽ gây nguy cơ lật xe hoặc tai nạn nghiêm trọng
+GTS18,d2,label=traffic_sign; sign_family=prohibitory,critical,Biển giới hạn tốc độ 30 km/h là biển cấm trọng yếu điều tiết an toàn downstream planner bắt buộc phải nhận diện
+GTS18,d3,geometry: 2 box tight-visible riêng biệt cho 2 biển; không bao gồm cột sắt đỡ biển,minor,Theo mục 3 guideline box phải ôm sát từng panel mặt biển nhìn thấy không gộp 2 biển vào 1 box
+GTS20,d1,label=traffic_sign; sign_family=mandatory,major,Biển tròn mũi tên chéo chỉ hướng đi bên phải tại đảo giao thông ở dải phân cách giữa làn
+GTS20,d2,label=traffic_sign; sign_family=mandatory,major,Biển tròn vòng xuyến nền xanh trên cột phía bên phải đảo giao thông
+GTS20,d3,label=traffic_sign; sign_family=other,minor,Biển tam giác ngược nhường đường gắn phía trên biển vòng xuyến thuộc nhóm other
+GTS21,d1,label=traffic_sign; sign_family=mandatory,major,Biển tròn mũi tên đi bên trái keep left kích thước lớn rõ nét ở đảo giao thông phân làn
+GTS21,d2,label=traffic_sign; sign_family=other,minor,Biển vuông xanh người đi bộ qua đường phía sau trên vỉa hè
+GTS21,d3,IGNORE: không tạo box cho biển hiệu bia Veltins trên tường nhà,minor,Biển quảng cáo thương mại gắn trên tường không thuộc quy chuẩn báo hiệu đường bộ theo mục 1 và 5 guideline
+GTS24,d1,label=traffic_sign; sign_family=mandatory,major,Biển tròn mũi tên chỉ hướng bắt buộc đi thẳng gắn trên cột đèn giao thông bên phải
+GTS24,d2,label=traffic_sign; sign_family=prohibitory,critical,Biển tròn đỏ gạch ngang trắng cấm đi vào cự ly xa phía góc đường đối diện nếu bỏ sót xe sẽ đi vào đường một chiều ngược chiều
+GTS24,d3,geometry: box sát mép panel tròn; không lấy khung đèn giao thông bên cạnh,minor,Tuân thủ quy tắc geometry tight box ôm sát viền biển chỉ dẫn trên cột đèn
+GTS28,d1,IGNORE: không tạo bất kỳ bounding box nào trong toàn bộ ảnh,critical,Ảnh hoàn toàn không có biển báo giao thông hợp lệ; bảng hiệu Biergarten là biển quán ăn tư nhân gán nhãn sẽ gây lỗi dương tính giả
+GTS28,d2,needs_review=false,minor,Rule loại trừ bảng hiệu thương mại đã được định nghĩa rõ ràng ở mục 1 và 5 của guideline không cần gắn cờ escalation
